@@ -18,7 +18,13 @@ for (let i = 0; i <= n; i++) {
 }
 
 /*
+** 改善前
 real	0m4.730s
 user	0m4.696s
 sys	0m0.016s
+
+** 改善後
+real	0m0.079s
+user	0m0.068s
+sys	0m0.004s
 */
